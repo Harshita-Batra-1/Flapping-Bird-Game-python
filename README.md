@@ -5,4 +5,3 @@ Pygame is a library that is used in creating games in Python. It has four import
 ->Events
 ->Sprites
 ->Sound
-
